@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+   <record id="inherit_res_partner_form_view" model="ir.ui.view">
+        <field name="name">partner.form.inherit</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml"> 
+
+
+                <xpath expr="//field[@name='website']" position="before">
+                    <label for="genre_ids" class="oe_inline" modifiers="{}"/>
+                    <div>
+                        <field name="genre_ids" widget="many2many_tags"/>
+                        <button name="consult_tracks" string="Spotify" type="object" class="btn btn-primary"/>
+                    </div>
+
+                </xpath>
+                    
+        </field>
+    </record>
+        
+</odoo>
+
+

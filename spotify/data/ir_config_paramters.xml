@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="token" model="ir.config_parameter">
+            <field name="key">token</field>
+            <field name="value"><![CDATA[BQAfi2Yh4ibwq3sqzyNKFqD9tG6LiXgqtYhb2oN52agGUlkLqkZK-fnv21GyXMeJ1h4H4HpQ0xERamrNy0X1Ejjog9dxRfDg3rvO5ezrfMulJB9BA3jyP92d77Pl2U5CfIfo-3XZVG7OxYUAqeLt8x2Kxs7MOfafL7iCIyfktwyO5SXGf4iZc5VApgaPZTQ]]> </field>
+        </record>    
+    </data>
+</odoo>
