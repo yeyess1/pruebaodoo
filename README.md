@@ -14,7 +14,7 @@
  
 4. Actualizar el modulo Spoti - ys.
 
-5. Ya en la UI, ir al modulo Contacts, crear un contacto, seleccionar en el campo generos, los generos a cosultar.
+5. Ya en la UI, ir al modulo Contacts, crear un contacto, seleccionar en el campo generos los generos a cosultar.
 
 6. Se almacenan las urls en el campo Links recomendados. 
 
