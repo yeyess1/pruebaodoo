@@ -3,7 +3,10 @@
 
 1.Instalar el modulo: Spoti - ys
 
-2. Ir a modelos, external.py y ejecutar el archivo para agregar los generos.
+2. Ir a modelos, external.py y agregar la url del servicio de odoo, nombre de la Base de datos, usuario y clave del usuario de odoo, despeues ejecutar el archivo para insertar los generos.
+
+![image](https://user-images.githubusercontent.com/92695542/192436095-473ffebc-34f3-4bdc-8997-4bdcce65892a.png)
+
 
 3. Debido al tiempo no autentique mi propio token, por lo que hay que agregarlo:
   abrir el enlace y dar click en GET Token 
