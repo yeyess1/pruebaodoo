@@ -29,7 +29,7 @@ class ResPartner(models.Model):
         store = True
     )
 
-    website = fields.Text(
+    website = fields.Char(
         string='links recomendados'
     )
 
